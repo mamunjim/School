@@ -1,0 +1,181 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.lal{
+    color: #FD511A;
+    font-size: 16px;
+    
+}
+.sobuj{
+    color: #21B573;
+
+}
+.gray{
+    color: gray;
+}
+/*navbar*/
+
+.navbar{
+    height: 75px;
+    background: #F0FFF0;
+}
+.logo img{
+    width: 75%;
+}
+.logo{
+    padding-left: 100px;
+}
+.header-menu{
+    list-style-type: none;
+    float: right;
+    padding-right: 150px;
+    line-height: 56px;
+}
+.header-menu li{
+   display: inline-block;
+   padding: 0 10px;
+   
+}
+.header-menu a{
+    text-decoration: none;
+    color: black;
+}
+.button{
+    text-decoration: none;
+    background: #21B573;
+    padding: 12px 28px;
+    border-radius: 33px;
+}
+/*Banner*/
+.banner{
+    background:#F0FFF0 ;
+    height: 500px;
+}
+.banner-content{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.banner-content p{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.banner-content h1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.right img{
+    width: 100%;
+    margin-top: 80px;
+}
+.right{
+    padding-right: 100px;
+}
+/*Card*/
+.icon-card img{
+    width: 25%;
+}
+.card-title{
+    color: #413960;
+    size: 24px;
+    line-height: 36px;
+
+
+}
+.icon-text{
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    font-weight: 400;
+
+}
+.icon-card{
+    padding: 50px 20px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    border: none;
+    background: #F8FFFB;
+ 
+}
+.all-icon-card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+
+/*CArd item*/
+.item-header{
+    font-size: 36px;
+    font-weight: 700;
+    color: #413960;
+    margin-bottom: 50px;
+   
+
+}
+.item-text{
+    color: #585859;
+
+}
+.half-item img{
+    width: 18px;
+    height: 20px;
+   
+    margin-right: 10px;
+}
+.half-item p{
+    font-size: 14px;
+    padding-top: 19px;
+}
+.card-item{
+    padding: 20px;
+    border: none;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+
+}
+.courses{
+    margin-bottom: 50px;
+}
+/*Testimonial*/
+.testimonial{
+    margin-bottom: 100px;
+}
+.testimonial img{
+    width: 65%;
+}
+.test{
+    text-align: right;
+}
+.test-text{
+    font-size: large;
+    font-weight: 400;
+    padding-top: 53px;
+    margin-left: 50px;
+}
+.testimonial h1{
+    font-size: 36px;
+    font-weight: 700;
+    color: black;
+    padding-top: 20px;
+   
+}
+
+/*Footer*/
+.footer{
+    height: 370px;
+    background: #282531;
+
+
+}
+.control{
+    margin-top: 50px;
+    line-height: 30px;
+    padding: 50px;
+}
+.footer p{
+    margin-top: 150px;
+    padding-left: 30px;
+}
+h5{
+    font-size: 11px;
+    font-weight: 100;
+}
